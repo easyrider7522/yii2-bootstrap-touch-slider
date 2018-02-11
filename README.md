@@ -11,6 +11,8 @@ composer install yii2-bootstrap-touch-slider --save
 
 or manually add to the `required` section of your project's composer.json
 ````json
-"easyrider7522/yii2-bootstrap-touch-slider": "@dev"
+"easyrider7522/yii2-bootstrap-touch-slider": "@alpha"
 ````
-and run `composer update` command
+and run `composer update` shell command
+
+Since it's a pre-release (currently in alpha state) stability flag `@alpha` must be used with the package (as you can see above) in order to be able to install it without changing minimum-stability property, which is global for your whole project.
