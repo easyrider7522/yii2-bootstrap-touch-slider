@@ -1,0 +1,38 @@
+{
+    "name": "easyrider7522/yii2-bootstrap-touch-slider",
+    "description": "Implementation of bootstrap-touch-slider from bootstrapthemes.co as Yii2 widget",
+    "keywords": [
+        "easyrider7522",
+        "bootstrap-touch-slider",
+		"carousel",
+		"slider",
+        "yii",
+        "yii2",
+        "yii 2",
+        "widget",
+		"bootstrap"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "homepage": "https://github.com/easyrider7522/yii2-bootstrap-touch-slider",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "~2.0.6",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+		"fortawesome/font-awesome": "~4.6",
+        "bower-asset/animate.css": "~3.0",
+        "bower-asset/jquery-touchswipe": "~1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "easyrider7522\\yii2btswidget\\": ""
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
