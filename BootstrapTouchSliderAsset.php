@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class BootstrapTouchSliderAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/easyrider7522/yii2btswidget/assets';
+    public $sourcePath = '@vendor/easyrider7522/yii2-bootstrap-touch-slider/assets';
     
     public $css = [
         'bootstrap-touch-slider.css',
