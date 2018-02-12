@@ -6,7 +6,7 @@ Implementation of bootstrap-touch-slider from bootstrapthemes.co as Yii2 widget
 ## Installation  
 ### Composer
 ````bash
-composer install yii2-bootstrap-touch-slider --save
+composer require easyrider7522/yii2-bootstrap-touch-slider "@alpha"
 ````
 
 or manually add to the `required` section of your project's composer.json
