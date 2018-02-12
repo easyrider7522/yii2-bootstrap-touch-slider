@@ -142,7 +142,7 @@ use easyrider7522\yii2btswidget\Carousel;
 composer remove easyrider7522/yii2-bootstrap-touch-slider
 ````
 
-or manually delete it from the `required` section of your project's `composer.json`
+or manually delete it from the `required` section of your project's `composer.json` and run `composer update`
 
 ## Dependencies
 
