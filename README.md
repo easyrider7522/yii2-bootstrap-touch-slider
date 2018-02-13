@@ -149,3 +149,8 @@ or manually delete it from the `required` section of your project's `composer.js
 [Animate.css](https://daneden.github.io/animate.css/)
 
 [TouchSwipe](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
+
+## Screenshots
+!(https://github.com/easyrider7522/yii2-bootstrap-touch-slider/yii2-bootstrap-carousel1-600px.jpg)
+!(https://github.com/easyrider7522/yii2-bootstrap-touch-slider/yii2-bootstrap-carousel2-600px.jpg)
+!(https://github.com/easyrider7522/yii2-bootstrap-touch-slider/yii2-bootstrap-carousel3-600px.jpg)
