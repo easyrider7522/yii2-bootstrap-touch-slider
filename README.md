@@ -151,6 +151,6 @@ or manually delete it from the `required` section of your project's `composer.js
 [TouchSwipe](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)
 
 ## Screenshots
-[Sample carousel screenshot: slide 1]: https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel1-600px.jpg
-[Sample carousel screenshot: slide 2]: https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel2-600px.jpg
-[Sample carousel screenshot: slide 3]: https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel3-600px.jpg
+![Sample carousel screenshot: slide 1](https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel1-600px.jpg)
+![Sample carousel screenshot: slide 2](https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel2-600px.jpg)
+![Sample carousel screenshot: slide 3](https://raw.githubusercontent.com/easyrider7522/yii2-bootstrap-touch-slider/master/yii2-bootstrap-carousel3-600px.jpg)
